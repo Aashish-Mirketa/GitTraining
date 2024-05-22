@@ -36,6 +36,9 @@
 		<members>Account.Support_Plan_Expiration_Date__c</members>
 		<members>Account.UpsellOpportunity__c</members>
 		<members>Account.Zone__c</members>
+		<members>Bike__c.Brand__c</members>
+		<members>Bike__c.Model__c</members>
+		<members>Bike__c.kilometeres__c</members>
 		<members>Candidate1__c.Email__c</members>
 		<members>Candidate1__c.Phone__c</members>
 		<members>Car_Inventory__c.Condition__c</members>
@@ -206,6 +209,7 @@
 		<members>AuthorizationFormConsent</members>
 		<members>AuthorizationFormDataUse</members>
 		<members>AuthorizationFormText</members>
+		<members>Bike__c</members>
 		<members>BusinessBrand</members>
 		<members>BuyerGroup</members>
 		<members>Campaign</members>
@@ -473,6 +477,10 @@
 		<members>Work_Location__c</members>
 		<members>aging__b</members>
 		<name>CustomObject</name>
+	</types>
+	<types>
+		<members>*</members>
+		<name>CustomTab</name>
 	</types>
 	<types>
 		<members>*</members>
